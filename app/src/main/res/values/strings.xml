@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recycler</string>
+    <string name="nigiri_descript">EBI, AMAEBI, HOTATE, SUZUKI, VEGETARIANS</string>
+    <string name="gunkan_maki_descript">TOBIKO, UNI, IKURA, RAW GUNKAN SPICY SALMON, RAW IKURA GUNKAN</string>
+    <string name="temaki_descript">SPICY TUNA, SPICY SALMON, NEGI TORO, SPECIAL - TEMAKI EIJI</string>
+    <string name="hosomaki_descript">KAPPA MAKI, AVOCADO MAKI, NEGI TORO MAKI</string>
+    <string name="roll_descript">UNAGI ROLL, CALIFORNIA ROLL, REAL KING ROLL, KAMIKAZE ROLL</string>
+    <string name="grilled_and_fried_descript">SHIROMI TEMPURA, YASAI, KATSUDON, UNADON</string>
+    <string name="sashimi_descript">MAGURO SASHIMI, SHIROMI SASHIMI</string>
+    <string name="sushi_sets_descript">FOR 1 PERSON, FOR 2 PEOPLE, FOR 3 PEOPLE</string>
+    <string name="gyoza_descript">KAISEN GYOZA, NIKU GYOZA, YASAI GYOZA</string>
+    <string name="desserts_descript">SAKURA MOCHI, ANMITSU, TAIYAKI</string>
+    <string name="salads_descript">GOMA WAKAME, TOFU SALAD</string>
+    <string name="menu_item">menu_item</string>
+</resources>
