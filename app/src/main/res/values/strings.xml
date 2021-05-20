@@ -12,4 +12,5 @@
     <string name="desserts_descript">SAKURA MOCHI, ANMITSU, TAIYAKI</string>
     <string name="salads_descript">GOMA WAKAME, TOFU SALAD</string>
     <string name="menu_item">menu_item</string>
+    <string name="icon_of_chosen_item">Icon of chosen item</string>
 </resources>
